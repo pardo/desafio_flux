@@ -1,7 +1,7 @@
 from django.db import models
 from django.contrib.auth.models import User
 
-from desafio_flux.desafio.apps.usergroups.models import UserGroup #esto es un asco, ver como cambiarlo
+from usergroups.models import UserGroup #esto es un asco, ver como cambiarlo
 
 # Create your models here.
 
